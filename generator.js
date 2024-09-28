@@ -34,6 +34,7 @@ else if(mark >=79  && mark <=100)
 else {console.log("Invalid Input")}
 
 // The grade will be seen in the output as "Grade A" since the value is betwwen 79 and 90
+// To view your grade change the value of the declared variable
 
 
 
